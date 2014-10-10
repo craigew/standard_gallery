@@ -1,0 +1,8 @@
+.hide{
+    visibility: hidden;
+}
+
+.edit_gallery_image_list_table{
+    border: 1px solid black;
+    width: 100%;
+}

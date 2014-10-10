@@ -1,0 +1,22 @@
+.wrapper{
+    position:relative;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:90px;
+    padding-left:50px;
+    width:80%;
+    margin:auto
+}
+.galleryCont{
+    display:none;
+}
+.wrapper .text{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.wrapper h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:26px;
+}
+
+.galleryScreen{
+    z-index: 10;
+}
